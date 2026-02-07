@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/switch.iml" filepath="$PROJECT_DIR$/switch.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/code.iml" filepath="$PROJECT_DIR$/code.iml" />
+>>>>>>> e415d06d1076804071f2aa78a49a9e93356a5db1
+    </modules>
+  </component>
+</project>
