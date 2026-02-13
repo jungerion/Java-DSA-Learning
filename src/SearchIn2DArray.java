@@ -2,6 +2,7 @@ import java.util.Arrays;
 
 public class SearchIn2DArray {
 
+    //This is for returning the array index, where is the element
     public static int[] search2D(int[][] arr, int target){
         for (int row = 0; row < arr.length; row++) {
             for (int col = 0; col < arr[row].length; col++) {
@@ -10,6 +11,7 @@ public class SearchIn2DArray {
         }return null;
     }
 
+    //This is for printing the element itself
     public static Integer search2DElement(int[][] arr, int target){
         for (int row = 0; row < arr.length; row++) {
             for (int col = 0; col < arr[row].length; col++) {
@@ -18,6 +20,7 @@ public class SearchIn2DArray {
         }return null;
     }
 
+    //This for returning the maximym value in the array
     public static Integer search2DMax(int[][] arr){
         int max=Integer.MIN_VALUE;
         for (int row = 0; row < arr.length; row++) {
