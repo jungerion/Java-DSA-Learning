@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/linearsearch/02_Arrays/linear_search/linear_search.iml" filepath="$PROJECT_DIR$/linearsearch/02_Arrays/linear_search/linear_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/linear_search2.iml" filepath="$PROJECT_DIR$/.idea/linear_search2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linearsearch/linearsearch.iml" filepath="$PROJECT_DIR$/linearsearch/linearsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linearsearch/01_Basics/methods_part1/methods_part1.iml" filepath="$PROJECT_DIR$/linearsearch/01_Basics/methods_part1/methods_part1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linearsearch/01_Basics/methods_part2/methods_part2.iml" filepath="$PROJECT_DIR$/linearsearch/01_Basics/methods_part2/methods_part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linearsearch/02_Arrays/multi_dimensional_arrays/multi_dimensional_arrays.iml" filepath="$PROJECT_DIR$/linearsearch/02_Arrays/multi_dimensional_arrays/multi_dimensional_arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linearsearch/03_Sorting/sorting_practice/practicestrings/practicestrings.iml" filepath="$PROJECT_DIR$/linearsearch/03_Sorting/sorting_practice/practicestrings/practicestrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linearsearch/03_Sorting/sorting_practice/recursionap/recursionap.iml" filepath="$PROJECT_DIR$/linearsearch/03_Sorting/sorting_practice/recursionap/recursionap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linearsearch/01_Basics/switch_basics/switch_basics.iml" filepath="$PROJECT_DIR$/linearsearch/01_Basics/switch_basics/switch_basics.iml" />
+    </modules>
+  </component>
+</project>

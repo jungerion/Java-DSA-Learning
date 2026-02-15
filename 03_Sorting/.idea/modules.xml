@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/03_Sorting.iml" filepath="$PROJECT_DIR$/.idea/03_Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorting_practice/practicestrings/practicestrings.iml" filepath="$PROJECT_DIR$/sorting_practice/practicestrings/practicestrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorting_practice/recursionap/recursionap.iml" filepath="$PROJECT_DIR$/sorting_practice/recursionap/recursionap.iml" />
+    </modules>
+  </component>
+</project>
