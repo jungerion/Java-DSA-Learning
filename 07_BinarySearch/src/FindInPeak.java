@@ -48,7 +48,7 @@ public class FindInPeak {
         }
         return start;
     }
-    static void main(String[] args) {
+    public static void main(String[] args) {
 int[] arr={1,2,3,4,5,3,2,1};
 int result=searchInBitonic(arr,3);
         System.out.println((result!=-1)?"Target found at: "+result:"Target not found!");
