@@ -15,8 +15,6 @@ public class BitonicMountain {
         }
         return start;
     }
-    git add PeakMountainArray.java
-
     static void main(String[] args) {
         int[] arr = {1, 3, 5, 7, 6, 4, 2};
         int peak= peakIndexInMountainArray(arr);
